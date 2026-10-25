@@ -24,8 +24,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ReeVNaR/ServerMonitor.git
-cd ServerMonitor
+git clone https://github.com/ReeVNaR/Server_Monitor.git
+cd Server_Monitor
 ```
 
 ### 2. Install dependencies
@@ -53,4 +53,4 @@ This repository includes an automated GitHub Actions workflow (`.github/workflow
 1. Push your code to the `main` branch on GitHub.
 2. In your GitHub repository, navigate to **Settings** > **Pages**.
 3. Under **Build and deployment** > **Source**, select **GitHub Actions**.
-4. Your site will automatically build and deploy at `https://<username>.github.io/ServerMonitor/`.
+4. Your site will automatically build and deploy at `https://reevnar.github.io/Server_Monitor/`.
